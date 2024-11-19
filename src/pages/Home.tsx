@@ -45,16 +45,16 @@ const Home: React.FC = () => {
                     <p className="mb-4">
                         Discover a world of creativity and natural inspiration through my art.
                     </p>
-                    <button className="bg-accent1 text-black px-6 py-2 rounded shadow hover:bg-accent2 transition">
+                    <button className="bg-accent1 text-text px-6 py-2 rounded shadow hover:bg-accent2 transition">
                         Explore My Gallery
                     </button>
                 </div>
             </section>
 
             {/* Call-to-Action Section */}
-            <section className="bg-accent1 text-black py-8 text-center">
+            <section className="bg-accent1 text-text py-8 text-center">
                 <p className="text-xl mb-4">Find unique art pieces in the shop!</p>
-                <button className="bg-white text-accent1 px-6 py-2 rounded shadow hover:bg-accent2 hover:text-black transition">
+                <button className="bg-white text-accent1 px-6 py-2 rounded shadow hover:bg-accent1 hover:text-text transition">
                     Go to Shop
                 </button>
             </section>

@@ -7,12 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'custom': {
-          'background': '#fff0c7',
-          'text': '#5f7055',
-          'accent1': '#c09173',
-          'accent2': '#74c5c8'
-        }
+        background: '#fff0c7',
+        text: '#5f7055',
+        accent1: '#ffd449',
+        accent2: '#74c5c8'
       },
       fontFamily: {
         'primary': ['Playfair Display', 'Georgia', 'serif'],

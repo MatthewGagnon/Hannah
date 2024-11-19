@@ -10,12 +10,12 @@ const Footer: React.FC = () => {
         },
         {
             icon: Twitter,
-            url: 'https://twitter.com/',
+            url: 'https://twitter.com/beanilee',
             label: 'Twitter'
         },
         {
             icon: Facebook,
-            url: 'https://facebook.com/',
+            url: 'https://facebook.com/HannahEzwawi',
             label: 'Facebook'
         }
     ];
